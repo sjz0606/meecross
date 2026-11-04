@@ -2,6 +2,8 @@
 
 Toshkentdagi MEECROSS krossovka do'koni uchun 3D sayt: aylantiriladigan krossovka, 71 modelli katalog va Telegram orqali buyurtma. Tillari: o'zbekcha va ruscha.
 
+**Sayt:** https://sjz0606.github.io/meecross/
+
 - **Do'kon:** Shota Rustaveli 57, Yakkasaroy, 10:00–22:00
 - **Instagram:** [@meecross_uz](https://www.instagram.com/meecross_uz/)
 - **Telegram:** [@Mekross_uz](https://t.me/Mekross_uz)
@@ -55,14 +57,6 @@ Yangi model yoki narx `js/data.js` da o'zgartiriladi.
 - **Kutubxonalar:** har biri o'z litsenziyasi asosida (`vendor/` ichidagi fayllar).
 
 Do'kon rasm, video va matnlari egasiga tegishli. Bu materiallarga ochiq litsenziya berilmagan.
-
-## Joylashdan oldin
-
-- [ ] Do'kon egasining rasm, video va fikrlarni ochiq joylashga roziligi
-- [ ] Tovar belgisi masalasi: kanalda "Люкс качество" yozilgan, rasmlarda mashhur brend logolari ko'rinadi. Saytda brend nomi va "original" so'zi ishlatilmagan
-- [ ] Yetkazib berish narxi, viloyatlar, almashtirish shartlari va ish kunlarini tasdiqlash
-- [ ] `og:image` ni domenli to'liq `https://...` manzilga o'zgartirish
-- [ ] Narx va mavjudlikni yangilash
 
 ## Sinov
 
